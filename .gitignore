@@ -2,5 +2,10 @@
 Library/
 Temp/
 Packages/
+<<<<<<< HEAD
 obj/
 .vs/
+=======
+.vs/
+obj/
+>>>>>>> e24be35ac92093bc7e7f0fe11d7a49fc63b64dc7

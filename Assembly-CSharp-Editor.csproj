@@ -10,7 +10,11 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
+<<<<<<< HEAD
     <ProjectGuid>{EA086A27-0666-3A3B-D56F-CC6C8F08E250}</ProjectGuid>
+=======
+    <ProjectGuid>{FE49F918-B646-D143-B749-A65C10134C5D}</ProjectGuid>
+>>>>>>> e24be35ac92093bc7e7f0fe11d7a49fc63b64dc7
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -118,6 +122,7 @@
     <Compile Include="Assets\ProCore\ProGrids\Editor\pg_Preferences.cs" />
     <Compile Include="Assets\ProCore\ProGrids\Editor\pg_ToggleContent.cs" />
     <Reference Include="UnityEditor.StandardEvents">
+<<<<<<< HEAD
       <HintPath>C:/Users/rene1/Desktop/Videojuejo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
@@ -128,6 +133,18 @@
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/rene1/Desktop/Videojuejo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+=======
+      <HintPath>G:/SERGI/Bibliotecas Sergi/Carpeta de Artista/ILLUSTIETOR 2.0/Carpeta del tiempo/2018-07- Julio/Curso Videojuegos EOI/ProyectoFinalJuego/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>G:/SERGI/Bibliotecas Sergi/Carpeta de Artista/ILLUSTIETOR 2.0/Carpeta del tiempo/2018-07- Julio/Curso Videojuegos EOI/ProyectoFinalJuego/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>G:/SERGI/Bibliotecas Sergi/Carpeta de Artista/ILLUSTIETOR 2.0/Carpeta del tiempo/2018-07- Julio/Curso Videojuegos EOI/ProyectoFinalJuego/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>G:/SERGI/Bibliotecas Sergi/Carpeta de Artista/ILLUSTIETOR 2.0/Carpeta del tiempo/2018-07- Julio/Curso Videojuegos EOI/ProyectoFinalJuego/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> e24be35ac92093bc7e7f0fe11d7a49fc63b64dc7
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -370,6 +387,7 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderCore-Unity5">
+<<<<<<< HEAD
       <HintPath>C:/Users/rene1/Desktop/Videojuejo/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderMeshOps-Unity5">
@@ -404,6 +422,42 @@
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+=======
+      <HintPath>G:/SERGI/Bibliotecas Sergi/Carpeta de Artista/ILLUSTIETOR 2.0/Carpeta del tiempo/2018-07- Julio/Curso Videojuegos EOI/ProyectoFinalJuego/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
+    </Reference>
+    <Reference Include="ProBuilderMeshOps-Unity5">
+      <HintPath>G:/SERGI/Bibliotecas Sergi/Carpeta de Artista/ILLUSTIETOR 2.0/Carpeta del tiempo/2018-07- Julio/Curso Videojuegos EOI/ProyectoFinalJuego/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
+    </Reference>
+    <Reference Include="KdTreeLib">
+      <HintPath>G:/SERGI/Bibliotecas Sergi/Carpeta de Artista/ILLUSTIETOR 2.0/Carpeta del tiempo/2018-07- Julio/Curso Videojuegos EOI/ProyectoFinalJuego/Assets/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+    </Reference>
+    <Reference Include="pb_Stl">
+      <HintPath>G:/SERGI/Bibliotecas Sergi/Carpeta de Artista/ILLUSTIETOR 2.0/Carpeta del tiempo/2018-07- Julio/Curso Videojuegos EOI/ProyectoFinalJuego/Assets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+    </Reference>
+    <Reference Include="Poly2Tri">
+      <HintPath>G:/SERGI/Bibliotecas Sergi/Carpeta de Artista/ILLUSTIETOR 2.0/Carpeta del tiempo/2018-07- Julio/Curso Videojuegos EOI/ProyectoFinalJuego/Assets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
+    </Reference>
+    <Reference Include="ProBuilderEditor-Unity5">
+      <HintPath>G:/SERGI/Bibliotecas Sergi/Carpeta de Artista/ILLUSTIETOR 2.0/Carpeta del tiempo/2018-07- Julio/Curso Videojuegos EOI/ProyectoFinalJuego/Assets/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+      <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>C:/Users/Sergi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StandardEvents">
+      <HintPath>C:/Users/Sergi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Analytics">
+      <HintPath>C:/Users/Sergi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>C:/Users/Sergi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Advertisements">
+      <HintPath>C:/Users/Sergi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+>>>>>>> e24be35ac92093bc7e7f0fe11d7a49fc63b64dc7
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/2.0-api/mscorlib.dll</HintPath>
@@ -435,7 +489,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
+<<<<<<< HEAD
       <Project>{D870ADA2-D2CC-C9A8-6570-51AD8CCE0967}</Project>
+=======
+      <Project>{A7384D4D-308C-BA8F-1541-A4633CF02034}</Project>
+>>>>>>> e24be35ac92093bc7e7f0fe11d7a49fc63b64dc7
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

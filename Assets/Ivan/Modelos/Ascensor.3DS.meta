@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 03c41f0ca52f90b48bf422e578a4151a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arch28_000
+    100002: Arch28_001
+    100004: Arch28_002
+    100006: Arch28_003
+    100008: Arch28_004
+    100010: Arch28_005
+    100012: Arch28_006
+    100014: Arch28_007
+    100016: Arch28_008
+    100018: Arch28_009
+    100020: Arch28_010
+    100022: Arch28_011
+    100024: Arch28_012
+    100026: Arch28_013
+    100028: Arch28_014
+    100030: Arch28_015
+    100032: Arch28_016
+    100034: Arch28_017
+    100036: Arch28_018
+    100038: Arch28_019
+    100040: Circle01
+    100042: Door LIFT
+    100044: //RootNode
+    100046: Group01
+    100048: 'Light for '
+    100050: Light for0
+    100052: Light for1
+    100054: Light for2
+    100056: Perila
+    100058: Perila01
+    100060: Rectangl10
+    100062: Rectangl11
+    100064: Rectangl12
+    100066: Rectangle0
+    100068: Rectangle1
+    100070: Rectangle2
+    100072: Rectangle3
+    100074: Rectangle4
+    100076: Rectangle5
+    100078: Rectangle6
+    100080: Rectangle7
+    100082: Rectangle8
+    100084: Rectangle9
+    100086: Sphere47
+    100088: Sphere48
+    100090: Sphere49
+    100092: Sphere50
+    100094: Text01
+    100096: Text02
+    400000: Arch28_000
+    400002: Arch28_001
+    400004: Arch28_002
+    400006: Arch28_003
+    400008: Arch28_004
+    400010: Arch28_005
+    400012: Arch28_006
+    400014: Arch28_007
+    400016: Arch28_008
+    400018: Arch28_009
+    400020: Arch28_010
+    400022: Arch28_011
+    400024: Arch28_012
+    400026: Arch28_013
+    400028: Arch28_014
+    400030: Arch28_015
+    400032: Arch28_016
+    400034: Arch28_017
+    400036: Arch28_018
+    400038: Arch28_019
+    400040: Circle01
+    400042: Door LIFT
+    400044: //RootNode
+    400046: Group01
+    400048: 'Light for '
+    400050: Light for0
+    400052: Light for1
+    400054: Light for2
+    400056: Perila
+    400058: Perila01
+    400060: Rectangl10
+    400062: Rectangl11
+    400064: Rectangl12
+    400066: Rectangle0
+    400068: Rectangle1
+    400070: Rectangle2
+    400072: Rectangle3
+    400074: Rectangle4
+    400076: Rectangle5
+    400078: Rectangle6
+    400080: Rectangle7
+    400082: Rectangle8
+    400084: Rectangle9
+    400086: Sphere47
+    400088: Sphere48
+    400090: Sphere49
+    400092: Sphere50
+    400094: Text01
+    400096: Text02
+    2100000: WHITE
+    2100002: Zerkelo
+    2100004: wood_280
+    2100006: Parket`_00
+    2100008: simple_metal_0_8
+    2100010: leather_22
+    2100012: 'Material #11'
+    2100014: Easy titan
+    2100016: Light Plafon_SSS
+    2100018: 'Material #278461'
+    2300000: Arch28_000
+    2300002: Arch28_001
+    2300004: Arch28_002
+    2300006: Arch28_003
+    2300008: Arch28_004
+    2300010: Arch28_005
+    2300012: Arch28_006
+    2300014: Arch28_007
+    2300016: Arch28_008
+    2300018: Arch28_009
+    2300020: Arch28_010
+    2300022: Arch28_011
+    2300024: Arch28_012
+    2300026: Arch28_013
+    2300028: Arch28_014
+    2300030: Arch28_015
+    2300032: Arch28_016
+    2300034: Arch28_017
+    2300036: Arch28_018
+    2300038: Arch28_019
+    2300040: Circle01
+    2300042: Perila
+    2300044: Perila01
+    2300046: Rectangl10
+    2300048: Rectangl11
+    2300050: Rectangl12
+    2300052: Rectangle0
+    2300054: Rectangle1
+    2300056: Rectangle2
+    2300058: Rectangle3
+    2300060: Rectangle4
+    2300062: Rectangle5
+    2300064: Rectangle6
+    2300066: Rectangle7
+    2300068: Rectangle8
+    2300070: Rectangle9
+    2300072: Sphere47
+    2300074: Sphere48
+    2300076: Sphere49
+    2300078: Sphere50
+    2300080: Text01
+    2300082: Text02
+    3300000: Arch28_000
+    3300002: Arch28_001
+    3300004: Arch28_002
+    3300006: Arch28_003
+    3300008: Arch28_004
+    3300010: Arch28_005
+    3300012: Arch28_006
+    3300014: Arch28_007
+    3300016: Arch28_008
+    3300018: Arch28_009
+    3300020: Arch28_010
+    3300022: Arch28_011
+    3300024: Arch28_012
+    3300026: Arch28_013
+    3300028: Arch28_014
+    3300030: Arch28_015
+    3300032: Arch28_016
+    3300034: Arch28_017
+    3300036: Arch28_018
+    3300038: Arch28_019
+    3300040: Circle01
+    3300042: Perila
+    3300044: Perila01
+    3300046: Rectangl10
+    3300048: Rectangl11
+    3300050: Rectangl12
+    3300052: Rectangle0
+    3300054: Rectangle1
+    3300056: Rectangle2
+    3300058: Rectangle3
+    3300060: Rectangle4
+    3300062: Rectangle5
+    3300064: Rectangle6
+    3300066: Rectangle7
+    3300068: Rectangle8
+    3300070: Rectangle9
+    3300072: Sphere47
+    3300074: Sphere48
+    3300076: Sphere49
+    3300078: Sphere50
+    3300080: Text01
+    3300082: Text02
+    4300000: Rectangle1
+    4300002: Rectangle0
+    4300004: Perila01
+    4300006: Perila
+    4300008: Rectangle2
+    4300010: Rectangle3
+    4300012: Rectangle4
+    4300014: Rectangle5
+    4300016: Rectangle6
+    4300018: Rectangle7
+    4300020: Rectangle8
+    4300022: Rectangle9
+    4300024: Rectangl10
+    4300026: Rectangl12
+    4300028: Text01
+    4300030: Circle01
+    4300032: Text02
+    4300034: Arch28_005
+    4300036: Arch28_000
+    4300038: Arch28_001
+    4300040: Arch28_002
+    4300042: Arch28_003
+    4300044: Sphere48
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
