@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ToposNuevo : MonoBehaviour {
+public class Topitos : MonoBehaviour
+{
 
     public enum Topos
     {
@@ -20,15 +21,16 @@ public class ToposNuevo : MonoBehaviour {
     public int numeroPartidas;
 
     public float tiempoMinimoAparecer, tiempoMaximoAparecer;
-    public float tiempoMinimoDesaparecer , tiempoMaximoDesaparecer;
+    public float tiempoMinimoDesaparecer, tiempoMaximoDesaparecer;
     public float tiempoMaximoGolpeado;
     public float tiempoTotal;
     float[] tiempoRandomAparecer;
     float[] tiempoRandomDesaparecer;
     float[] tiempoActual;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start()
+    {
         //coroutineTopoArriba = StartCoroutine(AparecerYDesaparecerTopo(topoArriba));
         //coroutineTopoAbajo = StartCoroutine(AparecerYDesaparecerTopo(topoAbajo));
         //coroutineTopoDerecha = StartCoroutine(AparecerYDesaparecerTopo(topoDerecha));
@@ -71,14 +73,16 @@ public class ToposNuevo : MonoBehaviour {
     }
 
 
-    private void CambiarTiempoRandomTopo(int topo){
+    private void CambiarTiempoRandomTopo(int topo)
+    {
         tiempoRandomAparecer[topo] = Random.Range(tiempoMinimoAparecer, tiempoMaximoAparecer);
         tiempoRandomDesaparecer[topo] = Random.Range(tiempoMinimoDesaparecer, tiempoMaximoDesaparecer);
 
     }
-	
-	// Update is called once per frame
-	void Update () {
+
+    // Update is called once per frame
+    void Update()
+    {
         tiempoTotal += Time.deltaTime;
 
         if (Input.GetKeyDown(KeyCode.UpArrow) && topo[(int)Topos.topoArriba].sprite == topoFuera)
@@ -149,6 +153,7 @@ public class ToposNuevo : MonoBehaviour {
         }
         Time.timeScale = 1;
     }
+}
 
     //IEnumerator AparecerYDesaparecerTopo(Image topo)
     //{
@@ -162,11 +167,10 @@ public class ToposNuevo : MonoBehaviour {
     //    }
     //}
 
-    //IEnumerator TopoGolpeado(Image topo)
-    //{
-    //    topo.sprite = topoGolpeado;
-    //    Debug.Log("Coroutina parada");
-    //    yield return new WaitForSeconds(1f);
-    //    StartCoroutine(AparecerYDesaparecerTopo(topo));
-    //}
-}
+//IEnumerator TopoGolpeado(Image topo)
+//{
+//    topo.sprite = topoGolpeado;
+//    Debug.Log("Coroutina parada");
+//    yield return new WaitForSeconds(1f);
+//    StartCoroutine(AparecerYDesaparecerTopo(topo));
+//}

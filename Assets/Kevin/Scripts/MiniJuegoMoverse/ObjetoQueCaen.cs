@@ -13,7 +13,7 @@ public class ObjetoQueCaen : MonoBehaviour {
         cubo.AddComponent<Rigidbody>();
         cubo.GetComponent<BoxCollider>().isTrigger = true;
         cubo.transform.position = new Vector2(Random.Range(-10, 10), 8);
-        cubo.tag = "cubo";
+        cubo.tag = "Cubo";
     }
 
 	void Start () {
